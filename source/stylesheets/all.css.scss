@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+body {
+  background: #d4d4d4 url('/images/background_diag.png');
+  font-family: sans-serif; 
+}
+
+.card {
+  background-color: white;
+  border-radius: 20px; 
+  margin: 0 auto;
+  width: 560px;
+  height: 360px;
+  padding: 20px;
+}
+
+.card_inner {
+  width: 80%;
+}
+
+.actions {
+  float: right;
+  width: 20%;
+}
+
+#kanji {
+  width: 200px;
+  height: 200px;
+}
